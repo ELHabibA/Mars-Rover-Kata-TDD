@@ -8,7 +8,6 @@ The challenge involves navigating Mars Rovers across a terrain based on a set of
 Features:
 
 Uses xUnit for testing.
-
 Built with Test-Driven Development (TDD).
 
 📚 Resources:
