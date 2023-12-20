@@ -9,3 +9,11 @@ Features:
 
 Uses xUnit for testing.
 Built with Test-Driven Development (TDD).
+
+📚 Resources:
+
+Mars Rover Kata Problem Description: https://kata-log.rocks/mars-rover-kata
+
+
+
+
