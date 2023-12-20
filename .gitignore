@@ -39,6 +39,22 @@ obj/
 *.log
 *.sqlite
 
-# OS-specific files
-.DS_Store
+
 Thumbs.db
+
+# .gitignore
+
+# Visual Studio Code
+.vscode/
+
+# xUnit
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.jfm
+.DS_Store
