@@ -11,3 +11,34 @@ obj/project.assets.json
 obj/project.nuget.cache
 obj/TDD.Test.csproj.nuget.dgspec.json
 obj/TDD.Test.csproj.nuget.g.props
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.user.*
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS-specific files
+.DS_Store
+Thumbs.db
