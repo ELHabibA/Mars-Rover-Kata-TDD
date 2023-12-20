@@ -5787,11 +5787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elhabib/Projects/TDD.Test/TDD.Test/TDD.Test.csproj",
+      "projectUniqueName": "/Users/elhabib/Desktop/Mars-Rover-Kata-TDD/TDD.Test.csproj",
       "projectName": "TDD.Test",
-      "projectPath": "/Users/elhabib/Projects/TDD.Test/TDD.Test/TDD.Test.csproj",
+      "projectPath": "/Users/elhabib/Desktop/Mars-Rover-Kata-TDD/TDD.Test.csproj",
       "packagesPath": "/Users/elhabib/.nuget/packages/",
-      "outputPath": "/Users/elhabib/Projects/TDD.Test/TDD.Test/obj/",
+      "outputPath": "/Users/elhabib/Desktop/Mars-Rover-Kata-TDD/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/elhabib/.nuget/NuGet/NuGet.Config"

@@ -2,3 +2,12 @@
 *.dll
 *.7z
 *.pdb
+Mars-Rover-Kata-TDD.sln
+obj/Debug/net7.0/TDD.Test.assets.cache
+obj/Debug/net7.0/TDD.Test.csproj.FileListAbsolute.txt
+obj/Debug/net7.0/TDD.Test.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/TDD.Test.genruntimeconfig.cache
+obj/project.assets.json
+obj/project.nuget.cache
+obj/TDD.Test.csproj.nuget.dgspec.json
+obj/TDD.Test.csproj.nuget.g.props
